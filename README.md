@@ -1,2 +1,1 @@
-# sntk
-a
+# sntk!
