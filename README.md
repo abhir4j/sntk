@@ -1,1 +1,1 @@
-# sntk!
+# sntk
